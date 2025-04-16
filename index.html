@@ -3,7 +3,7 @@
 <head>
 <title>Dein Abenteuer, deine Wahl!</title>
 <style>
-a:link, a:visited {
+a.first:link, a.first:visited {
   background-color: DeepSkyBlue;
   color: white;
   padding: 15px 25px;
@@ -12,7 +12,20 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
-a:hover, a:active {
+a.first:hover, a.first:active {
+  background-color: DodgerBlue;
+}
+
+a.second:link, a.second:visited {
+  background-color: DeepSkyBlue;
+  color: white;
+  padding: 15px 25px;
+  font-size: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.second:hover, a.second:active {
   background-color: DodgerBlue;
 }
 p {color:white;}
@@ -23,9 +36,9 @@ p {color:white;}
 <p style="text-align: center; font-size: 2.5vw; line-height: 2vw"><em>Gemeinsam interaktive Geschichten schreiben</em></p>
 <p style="text-align: center; font-size: 1.8vw; line-height: 9vw">- Ein Projekt der <a href="https://www.berlin.de/stadtbibliothek-tempelhof-schoeneberg/" target="_blank" style="padding: 0px 0px 0px 0px; background-color:transparent; display:inline; text-decoration:underline">Stadtbibliothek Tempelhof-Schöneberg</a> -</p>
 <p>&nbsp;</p>
-<p style="text-align: center"><a href="https://stabifahr.github.io/DADW/test1.html" target="_blank">Test 1</a></p>
+<p style="text-align: center"><a class="first" href="https://stabifahr.github.io/DADW/test1.html" target="_blank">Test 1</a></p>
 <p>&nbsp;</p>
-<p style="text-align: center"><a href="https://stabifahr.github.io/DADW/test2.html" target="_blank">Test 2</a></p>
+<p style="text-align: center"><a calss="second" href="https://stabifahr.github.io/DADW/test2.html" target="_blank">Test 2</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <hr>
