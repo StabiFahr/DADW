@@ -1,1 +1,1 @@
-test
+Dies ist die Projektseite des Förderprojekts "Dein Abenteuer, deine Wahl", welches 2025 von der Berliner Stadtbibliothek Tempelhof-Schöneberg initiiert wurde. Durchgeführt wurden drei Veranstaltungsreihen zum Thema "Digitale Leseförderung", an denen mit Kindern und Jugendlichen zwischen 10 und 17 Jahren interaktive Geschichten entwickelt und mithilfe von Twine digital dargestellt wurden. Die Ergebnisse sind hier zu sehen, lesen und spielen.
